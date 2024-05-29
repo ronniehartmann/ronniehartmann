@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey 👋
 
 <!--
 **ronniehartmann/ronniehartmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 I'm currently in the fourth year of my apprenticeship as a software engineer at [Noser Engineering AG](https://www.noser.com/)
+- 🌱 In the last three years I've gained experience with C# and the .NET framework
+- 🛹 I love to skate in my freetime
