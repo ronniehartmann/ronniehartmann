@@ -1,6 +1,6 @@
 ## Hey 👋
-- 🎓 I'm currently in the fourth year of my apprenticeship as a software engineer at [Noser Engineering AG](https://www.noser.com/)
-- 🌱 In the last three years I've gained experience with C# and the .NET framework
+- 🧑‍💼 I'm a software engineer working at [Noser Engineering AG](https://www.noser.com/)
+- 🎓 In the last four years I've gained experience with C# and the .NET framework at my apprenticeship at [Noser Young](https://noseryoung.ch/)
 - 🛹 I love to skate in my freetime
 
 ### Stats
